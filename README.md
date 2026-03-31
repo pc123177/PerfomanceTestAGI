@@ -56,9 +56,6 @@ blazedemo-performance/
 │   ├── load-test-results.jtl
 │   ├── spike-test-results.jtl
 │   └── *-html-report/              # Relatórios HTML interativos
-├── .github/
-│   └── workflows/
-│       └── performance-tests.yml   # Pipeline GitHub Actions
 ├── run-tests.sh                    # Script de execução (Linux/macOS)
 ├── run-tests.bat                   # Script de execução (Windows)
 └── README.md
@@ -90,8 +87,8 @@ java -version
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/blazedemo-performance.git
-cd blazedemo-performance
+git clone https://github.com/pc123177/PerfomanceTestAGI.git
+cd PerfomanceTestAGI
 ```
 
 ### 2. Baixar e instalar o JMeter
